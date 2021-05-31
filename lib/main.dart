@@ -4,6 +4,7 @@ import 'package:generate_pdf/review.dart';
 
 void main() {
   runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
     theme: ThemeData(textTheme: TextTheme()),
     home: MyPage(),
   ));
