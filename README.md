@@ -5,10 +5,8 @@ This is a simple flutter project to generate pdf from the given data.
 ## Screenshots 
 
 
-![Screenshot_1622436935](https://user-images.githubusercontent.com/46245859/120142648-3d578f80-c1fc-11eb-9467-7dcfb9d21e81.png)
-
-
-![Screenshot_1622436952](https://user-images.githubusercontent.com/46245859/120142653-40528000-c1fc-11eb-9335-c71d922d035b.png)
+<img src="https://user-images.githubusercontent.com/46245859/120142648-3d578f80-c1fc-11eb-9467-7dcfb9d21e81.png" width="300"> 
+<img src="https://user-images.githubusercontent.com/46245859/120142653-40528000-c1fc-11eb-9335-c71d922d035b.png" width="300">
 
 
 
